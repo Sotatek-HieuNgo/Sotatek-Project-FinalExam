@@ -1,0 +1,6 @@
+[submodule "Social-Network-Client"]
+	path = Social-Network-Client
+	url = https://github.com/ngohieu1209/Social-Network-Client.git
+[submodule "Social-Network-Server"]
+	path = Social-Network-Server
+	url = https://github.com/ngohieu1209/Social-Network-Server.git
